@@ -1,0 +1,211 @@
+{
+  "people": [
+    {
+      "ssn": "O123456789",
+      "name": "劉哥",
+      "severity": 1,
+      "location": {
+        "name": "南勢角站",
+        "description": "23566新北市中和區捷運路6號"
+      }
+    },
+    {
+      "ssn": "A123456789",
+      "name": "王小弟",
+      "severity": 2,
+      "location": {
+        "name": "國立清華大學",
+        "description": "300新竹市東區光復路二段101號"
+      }
+    },
+    {
+      "ssn": "O111111111",
+      "name": "劉胖胖",
+      "severity": 0,
+      "location": {
+        "name": "縣政府[竹北市民]",
+        "description": "302新竹縣竹北市"
+      }
+    },
+    {
+      "ssn": "O122222222",
+      "name": "謝哥哥",
+      "severity": 1,
+      "location": {
+        "name": "家樂福竹北店 Carrefour Chu Pei Store",
+        "description": "302新竹縣竹北市光明六路89號1F"
+      }
+    },
+    {
+      "ssn": "O100000001",
+      "name": "Ray",
+      "severity": 0,
+      "location": {
+        "name": "新竹轉運站",
+        "description": "300新竹市東區; 300, Hsinchu City, East District"
+      }
+    },
+    {
+      "ssn": "O100000002",
+      "name": "Simon",
+      "severity": 1,
+      "location": {
+        "name": "台北轉運站",
+        "description": "103臺北市大同區市民大道一段209號No. 10351; 103, Taipei City, Datong District, Section 1, Shimin Boulevard, 209號No. 10351"
+      }
+    },
+    {
+      "ssn": "O100000003",
+      "name": "陳伯伯",
+      "severity": 2,
+      "location": {
+        "name": "龍山寺站",
+        "description": "108臺北市萬華區"
+      }
+    },
+    {
+      "ssn": "O100000004",
+      "name": "王伯伯",
+      "severity": 2,
+      "location": {
+        "name": "龍山寺站",
+        "description": "108臺北市萬華區"
+      }
+    },
+    {
+      "ssn": "O100000005",
+      "name": "李伯伯",
+      "severity": 2,
+      "location": {
+        "name": "龍山寺站",
+        "description": "108臺北市萬華區"
+      }
+    },
+    {
+      "ssn": "O200000006",
+      "name": "吳小姐",
+      "severity": 2,
+      "location": {
+        "name": "龍山寺站",
+        "description": "108臺北市萬華區"
+      }
+    },
+    {
+      "ssn": "O200000007",
+      "name": "陳小姐",
+      "severity": 2,
+      "location": {
+        "name": "龍山寺站",
+        "description": "108臺北市萬華區"
+      }
+    },
+    {
+      "ssn": "O200000008",
+      "name": "張小姐",
+      "severity": 2,
+      "location": {
+        "name": "龍山寺站",
+        "description": "108臺北市萬華區"
+      }
+    },
+    {
+      "ssn": "O100000013",
+      "name": "黃先生",
+      "severity": 1,
+      "location": {
+        "name": "國立政治大學",
+        "description": "116臺北市文山區指南路二段64號"
+      }
+    },
+    {
+      "ssn": "O200000014",
+      "name": "曾小姐",
+      "severity": 0,
+      "location": {
+        "name": "國立陽明交通大學",
+        "description": "112臺北市北投區立農街二段155號"
+      }
+    },
+    {
+      "ssn": "O200000009",
+      "name": "張小姐",
+      "severity": 1,
+      "location": {
+        "name": "基隆廟口夜市",
+        "description": "200基隆市仁愛區愛四路20號"
+      }
+    },
+    {
+      "ssn": "O100000011",
+      "name": "David504",
+      "severity": 2,
+      "location": {
+        "name": "豬油 咖啡與閱讀",
+        "description": "436臺中市清水區Zhongzheng Street 71號 臺灣"
+      }
+    },
+    {
+      "ssn": "O100000012",
+      "name": "葛先生",
+      "severity": 2,
+      "location": {
+        "name": "永和仁愛公園",
+        "description": "234新北市永和區仁愛路244-1號"
+      }
+    },
+    {
+      "ssn": "O200000013",
+      "name": "洪小姐",
+      "severity": 2,
+      "location": {
+        "name": "新豐車站",
+        "description": "304新竹縣新豐鄉新興路202號"
+      }
+    },
+    {
+      "ssn": "O100000014",
+      "name": "吳先生",
+      "severity": 2,
+      "location": {
+        "name": "新豐車站",
+        "description": "304新竹縣新豐鄉新興路202號"
+      }
+    },
+    {
+      "ssn": "O133333333",
+      "name": "蔡哥",
+      "severity": 1,
+      "location": {
+        "name": "國立臺南第一高級中學",
+        "description": "701臺南市東區民族路一段1號"
+      }
+    },
+    {
+      "ssn": "O100000010",
+      "name": "爆哥",
+      "severity": 0,
+      "location": {
+        "name": "南台科大",
+        "description": "71005臺南市永康區南台街1號"
+      }
+    },
+    {
+      "ssn": "A177777777",
+      "name": "張小弟",
+      "severity": 0,
+      "location": {
+        "name": "臺灣大學",
+        "description": "10617臺北市大安區羅斯福路四段1號"
+      }
+    },
+    {
+      "ssn": "A199999999",
+      "name": "黃小弟",
+      "severity": 1,
+      "location": {
+        "name": "鳳山車站",
+        "description": "830高雄市鳳山區曹公路68號"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+type Person {
+    ssn: String!
+    name: ID!
+    location: Location
+    severity: Int!
+}
+
+type Location {
+    name: String!
+    description: String!  
+    # e.g. "10617 臺北市羅斯福路四段一號; No.1, Sec. 4, Roosevelt Road, Taipei, 10617 Taiwan."
+    # 用 string match 查每個縣市的確診數
+}
+
+type Query {
+    statsCount(
+        severity: Int,
+        locationKeywords: [String!]!,
+    ): [Int!]
+}
+
+type Mutation {
+    insertPeople(data: [PersonInput!]!): Boolean
+}
+
+input PersonInput {
+    ssn: String!
+    name: String!
+    severity: Int!
+    location: LocationInput
+}
+
+input LocationInput {
+    name: String!
+    description: String!
+}
+
+type Subscription {
+    people: PeopleSubscriptionPayload
+}
+
+type PeopleSubscriptionPayload {
+    inserted: [Person!]!
+    deleted: [Person!]!
+}
